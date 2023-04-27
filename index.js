@@ -98,7 +98,7 @@ function createCartProduct(title,price,imgSrc){
     <div class="cart-f-title">${title}</div>
     <div class="price-box">
       <div class="cart-price">${price}</div>
-       <div class="cart-amt">${price}</div>
+      <div class="cart-amt">${price}</div>
    </div>
     <input type="number" value="1" class="cart-quantity">
   </div>
